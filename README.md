@@ -1,7 +1,7 @@
 # V3xes.github.io
 
 ## Edpuzzle Hacks
--https://edpuzzle.hs.vc/
+-[Hack](https://edpuzzle.hs.vc/)
 
 ### 
 
