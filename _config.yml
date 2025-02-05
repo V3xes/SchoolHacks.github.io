@@ -2,4 +2,4 @@ title:School Hacks
 #logo
 description: Hacks For School Easy
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: pages-themes/modernist@v0.2.0 
