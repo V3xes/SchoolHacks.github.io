@@ -1,4 +1,4 @@
-# School Hackd
+# School Hacks
 
 ## Edpuzzle Hacks
 -[EdPuzzle Hack](https://edpuzzle.hs.vc/)
