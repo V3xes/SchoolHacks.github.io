@@ -1,4 +1,4 @@
-# V3xes.github.io
+# School Hackd
 
 ## Edpuzzle Hacks
 -[EdPuzzle Hack](https://edpuzzle.hs.vc/)
